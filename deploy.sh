@@ -1,20 +1,19 @@
 #!/bin/sh
-
-# Stop, if a command fails
+# If a command fails then the deploy stops
 set -e
-
-printf "\033[0;32mDeploying updates to GitHub...033[0m\n"
-
-# Building the project
+printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
+# Build the project.
 hugo
+# Go To Public folder
 cd public
-
+# Add changes to git.
 git add .
+# Commit changes.
 msg="rebuilding site $(date)"
-if [ -n "$*" ]
+if [[ -n "$*" ]]
 then
-	msg="$*"
+msg="$*"
 fi
-
 git commit -am "$msg"
+# Push source and build repos.
 git push origin master
