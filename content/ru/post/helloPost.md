@@ -1,14 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "HelloPost"
+title: "ПервыйПост"
 subtitle: ""
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2020-05-23T21:16:04+03:00
-lastmod: 2020-05-23T21:16:04+03:00
+date: 2020-06-18T20:05:35+03:00
+lastmod: 2020-06-18T20:05:35+03:00
 featured: false
 draft: false
 
