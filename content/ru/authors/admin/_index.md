@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Кирилл Ширяев
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,26 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+Должность: Студент 2-го курса
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Российский Университет Дружбы Народов
+  url: "http://www.rudn.ru/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+Биография: Интересуюсь машинным обучением и искусственным интеллектом.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+Интересы:
+- Искусственный интеллект
+- Наука о данных
+- Машинное обучение
 
-education:
+Образование:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: 2 курс, продолжаю обучение
+  - institution: Российский Университет Дружбы Народов
+  - year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +38,34 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:1032182518@pfur.ru'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/2MVhSjsJCUUGdQP
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: '#'
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/shiryaevkirill
+- icon: mendeley
+  icon_pack: ai
+  link: https://www.mendeley.com/profiles/-357670/
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Kirill_Shiryaev
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/researcher/3651509/kirill-shiryaev/
+- icon: coursera
+  icon_pack: ai
+  link: '#'
+- icon: erlang
+  icon_pack: fab
+  link: '#'
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-1118-3004
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,7 +73,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "1032182518@pfur.ru"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -70,6 +82,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Ширяев Кирилл, учится по направлению «Фундаментальная информатика и информационные технологии» в университете Университета РУДН. Интересуется и занимаается машинным обучением и программированием нейронных сетей.
